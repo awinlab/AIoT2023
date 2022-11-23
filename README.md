@@ -27,6 +27,6 @@
 - [Lecture 12 Pytorch Basic](https://github.com/awinlab/CourseTemplateTry/tree/main/Lecture%2012%20Pytorch%20Basic)
     - [[課程介紹PDF]](https://github.com/yam8572/IOT/blob/main/Lesson1%20Introduction/%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9.pdf)
     - [Pytorch四日速成練習]
-    - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/Lecture_12_Pytorch%E5%9B%9B%E6%97%A5%E9%80%9F%E6%88%90%E7%B7%B4%E7%BF%92.ipynb)
+    - [Pytorch四日速成練習![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/Lecture_12_Pytorch%E5%9B%9B%E6%97%A5%E9%80%9F%E6%88%90%E7%B7%B4%E7%BF%92.ipynb)
     - [[note]](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/README.md)
     - [[video L12]](https://youtu.be/rFK0B5B8AUs) 
