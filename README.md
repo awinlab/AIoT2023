@@ -1,11 +1,11 @@
 # CourseTemplateTry
 連結中的檔案網址為 NCHU iLearning，在下載檔案前請先在在同一瀏覽器登入後，即可下載。
 - L1 教學大綱與學習資源 
-    - [[課程介紹PDF]](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%201%20Introduction/%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9.pdf)
-    - [[AI 介紹]](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%201%20Introduction/AI_ML%E7%B8%BD%E8%AB%96.pdf)
-    - [[note]](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%201%20Introduction/README.md)
-    - [[video L1-1]](https://youtu.be/xIAEHZvYadE) 
-    - [[video L1-2]](https://youtu.be/J1BYvGg4f0o)
+    - [課程介紹PDF](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%201%20Introduction/%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9.pdf)
+    - [AI 介紹](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%201%20Introduction/AI_ML%E7%B8%BD%E8%AB%96.pdf)
+    - [note](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%201%20Introduction/README.md)
+    - [video L1-1](https://youtu.be/xIAEHZvYadE) 
+    - [video L1-2](https://youtu.be/J1BYvGg4f0o)
 
 - [Lecture 2 講義 and code](https://lms2020.nchu.edu.tw/media/doc/88796)
 - [Lecture 1 and Lecture 2 檔案](https://github.com/awinlab/CourseTemplateTry/tree/main/Lecture%201%262)
@@ -29,5 +29,5 @@
     - [Pytorch四日速成練習![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/Lecture_12_Pytorch%E5%9B%9B%E6%97%A5%E9%80%9F%E6%88%90%E7%B7%B4%E7%BF%92.ipynb)
     - [L12-3 Deep Neural Networks - MNIST![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/L12-3%20Deep%20Neural%20Networks%20-%20MNIST.ipynb)
     - [L12-4 Convolutional Neural Networks![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/L12-4%20Convolutional%20Neural%20Networks.ipynb)
-    - [[note]](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/README.md)
-    - [[video L12]](https://youtu.be/rFK0B5B8AUs) 
+    - [note](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/README.md)
+    - [video L12](https://youtu.be/rFK0B5B8AUs) 
