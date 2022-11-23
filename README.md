@@ -25,7 +25,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/awinlab/CourseTemplateTry/blob/c84b9d559b5d84a997442914571d3162a5c661c4/Lecture%205/Logistic%20regression%202022.10.3(grade%20with%20K-fold).ipynb)
 
 - Lecture 12 Pytorch Basic
-    - [[notion pdf]](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/AIoT_L12_Pytorch_Basics.pdf))
+    - [[notion pdf]](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/AIoT_L12_Pytorch_Basics.pdf)
     - [Pytorch四日速成練習![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/Lecture_12_Pytorch%E5%9B%9B%E6%97%A5%E9%80%9F%E6%88%90%E7%B7%B4%E7%BF%92.ipynb)
     - [L12-3 Deep Neural Networks - MNIST![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/L12-3%20Deep%20Neural%20Networks%20-%20MNIST.ipynb)
     - [L12-4 Convolutional Neural Networks![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/awinlab/CourseTemplateTry/blob/main/Lecture%2012%20Pytorch%20Basic/L12-4%20Convolutional%20Neural%20Networks.ipynb)
