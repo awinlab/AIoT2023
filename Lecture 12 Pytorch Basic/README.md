@@ -1,4 +1,4 @@
-# Lesson 12 Pytorch Basis
+# 物連網Lesson 12 Pytorch Basis
 
 ## 深度學習
 學習資源： [台北科技大學 黃嘉千](https://github.com/taipeitechmmslab/MMSLAB-TF2)
@@ -26,3 +26,26 @@
 GitHub:https://github.com/hunkim/PyTorchZeroToAll
 Slides:https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M
 Youtube: • Youtube https://www.pytorchtutorial.com/goto/http://bit.ly/PyTorchVideo
+
+## Deep Learning 3 大框架
+![](https://i.imgur.com/sX2maVH.png)
+
+## code 講解
+### pytorch CNN
+#### pytorch 需自行將model 用 .to(device) 才能用 GPU跑
+#### model 會呼叫 forward function
+![](https://i.imgur.com/6cnYFEr.jpg)
+![](https://i.imgur.com/t1eLcgd.jpg)
+#### nn.linear
+![](https://i.imgur.com/Y3ZTuDQ.jpg)
+![](https://i.imgur.com/BqdX3UW.jpg)
+
+
+
+### Lecture_12_Pytorch四日速成練習.ipynb
+#### loss backward()
+![](https://i.imgur.com/Vb4z93u.jpg)
+![](https://i.imgur.com/spLJFMP.jpg)
+
+#### detach tensor to numpy
+![](https://i.imgur.com/JslR3iK.jpg)
