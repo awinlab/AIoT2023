@@ -1,4 +1,4 @@
-# CourseTemplateTry
+# AIoT2023 (Last update 2023.2.6)
 連結中的檔案網址為 NCHU iLearning，在下載檔案前請先在在同一瀏覽器登入後，即可下載。
 - L1 教學大綱與學習資源 
     - [課程介紹PDF](https://github.com/awinlab/CourseTemplateTry/blob/main/Lecture%201%20Introduction/%E8%AA%B2%E7%A8%8B%E4%BB%8B%E7%B4%B9.pdf)
